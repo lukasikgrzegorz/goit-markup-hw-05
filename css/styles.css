@@ -325,6 +325,7 @@ header .logo {
     width: 528px;
     height: 581px;
     background-color: var(--white-color);
+    border-radius: 4px;
 }
 
 .button-modal-close {
